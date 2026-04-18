@@ -5,3 +5,4 @@ next-dev.err.log
 next-dev.out.log
 *.png
 *.log
+.DS_Store
